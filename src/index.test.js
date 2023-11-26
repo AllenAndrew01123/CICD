@@ -20,6 +20,6 @@ test("Should multiply two numbers", () => {
   expect(multiply(25, 10)).toBe(250);
 });
 // Test Case 4 (Division)
-test("Should add two numbers", () => {
+test("Should divide two numbers", () => {
   expect(divide(25, 10)).toBe(2.5);
 });
